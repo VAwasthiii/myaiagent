@@ -1,0 +1,28 @@
+Vaibhav Awasthi is a passionate programmer and AI enthusiast with a strong foundation in Computer Science and Engineering (Artificial Intelligence), currently pursuing his B.Tech at Pranveer Singh Institute of Technology, Kanpur. With a proven track record in developing end-to-end software solutions, Vaibhav combines technical expertise with problem-solving skills to deliver impactful results.
+
+He has built and deployed projects across diverse domains, including a Spring Boot–React-based Car Rental System with real-time availability tracking, a Hugging Face–powered AI Sentiment Analysis app, and a Chrome Extension for web automation with Firebase integration. His work reflects proficiency in Java, Python, JavaScript, React.js, Spring Boot, MySQL, and NLP technologies, along with a strong interest in AI, machine learning, and web development.
+
+Recognized as a 5-star coder in Java and Python on HackerRank and selected for TechExpo 2024, Vaibhav is driven by innovation, adaptability, and continuous learning. His certifications in AWS Cloud, Machine Learning Fundamentals (IBM), and JavaScript further validate his commitment to technical excellence.
+
+ACHIEVEMENTS
+- 5-Star Coder in Java and Python on HackerRank, demonstrating strong problem-solving and programming expertise.
+- Selected for TechExpo 2024 at PSIT, showcasing leadership, teamwork, and innovative project development.
+- Achieved multiple certifications, including AWS Certified Cloud Practitioner, Machine Learning Fundamentals (IBM), and JavaScript (Springboard), validating cross-domain technical proficiency.
+
+PROJECTS
+
+Car Rental System – OptiFlow Technologies
+Tech Stack: Java, Spring Boot, React.js, MySQL, REST API, Bootstrap, Spring Security, JavaMail, Chart.js
+- Designed and developed a Spring Boot–React web application for car bookings, insurance management, and real-time availability tracking.
+- Implemented role-based authentication with Spring Security, automated email confirmations via JavaMail, and created a data-driven admin dashboard with Chart.js.
+- Integrated REST APIs for dynamic booking management, reducing manual coordination.
+
+AI Agent – Text Sentiment Analyzer
+Tech Stack: Python, Hugging Face Transformers, Streamlit, Scikit-learn, NLP
+- Built a real-time sentiment analysis tool classifying text into positive, negative, and neutral categories.
+- Created an interactive UI with sentiment distribution visualization and future-ready model fine-tuning capabilities.
+
+Web Page Automation via Popup Interface Extension
+Tech Stack: JavaScript, HTML, CSS, Chrome Extension APIs, Firebase
+- Developed a Chrome Extension with a visual element picker, multi-tab workflow automation, and persistent storage.
+- Integrated cloud sync via Firebase for cross-device script access and real-time error notifications.
