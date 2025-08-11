@@ -23,7 +23,7 @@ myaiagent/
 
 ## ⚙️ How It Works
 
-### **Step 1: Importing Key Libraries**
+## Importing Key Libraries**
 At the start of the code, essential libraries are imported — each with a specific role in building and running the chatbot:
 
 - **`streamlit`** → Builds the user interface and handles chat interactions.
